@@ -1,4 +1,3 @@
 # way-s_document
 This is hanchengway's document
-
-create data:20160304 
+mysql 知识点小结
